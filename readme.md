@@ -9,3 +9,8 @@ aws s3 cp music s3://devutkarsh.com --content-type "text/html"
 aws s3 cp OG.jpeg s3://devutkarsh.com --content-type "text/html"
 
 aws s3 cp images/kisi-subah.jpeg s3://devutkarsh.com/images/kisi-subah.jpeg -->
+
+
+
+GET https://devutkarsh.com/kisi-subah 
+GET https://blog.devutkarsh.com/a-month-bagpacking-in-sikkim/
